@@ -1,0 +1,81 @@
+services:
+  sys1:
+    build: .
+    ports:
+      - 80:80
+  sys2:
+    build: .
+    ports:
+      - 80:80
+  sys3:
+    build: .
+    ports:
+      - 80:80
+  sys4:
+    build: .
+    ports:
+      - 80:80
+  sys5:
+    build: .
+    ports:
+      - 80:80
+  sys6:
+    build: .
+    ports:
+      - 80:80
+  sys7:
+    build: .
+    ports:
+      - 80:80
+  sys8:
+    build: .
+    ports:
+      - 80:80
+  sys9:
+    build: .
+    ports:
+      - 80:80
+  sys10:
+    build: .
+    ports:
+      - 80:80
+  sys11:
+    build: .
+    ports:
+      - 80:80
+  sys12:
+    build: .
+    ports:
+      - 80:80
+  sys13:
+    build: .
+    ports:
+      - 80:80
+  sys14:
+    build: .
+    ports:
+      - 80:80
+  sys15:
+    build: .
+    ports:
+      - 80:80
+  sys16:
+    build: .
+    ports:
+      - 80:80
+  sys17:
+    build: .
+    ports:
+      - 80:80
+  sys18:
+    build: .
+    ports:
+      - 80:80
+  sys19:
+    build: .
+    ports:
+      - 80:80
+  sys20:
+    build: .
+    ports:
+      - 80:80
